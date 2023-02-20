@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dj.flutter.dj_futter_master">
+  <!--授权网络权限-->
+  <!-- <user-permission android:name="android.permission.INTERNET"/> -->
    <application
         android:label="dj_futter_master"
         android:name="${applicationName}"
